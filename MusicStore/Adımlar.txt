@@ -1,0 +1,13 @@
+CORE => Entity => BaseEntity
+CORE=> DAL=> IRepository
+CORE DAL EF => EFSingletonContext
+CORE DAL EF => EFRepositoryBase
+--------------------------------
+DAL'a CORE'u reference ver
+
+
+
+
+------------------------------
+SERVICE
+

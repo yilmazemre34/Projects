@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">TÜM ÜRÜNLER</a></li>
+    <li><a data-toggle="tab" href="#menu1">EN SON EKLENEN 5 ÜRÜN</a></li>
+    <li><a data-toggle="tab" href="#menu2">İNDİRİMDEKİLER </a></li>
+</ul>
+
+<div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+        <div class="col-lg-2" style="float:left">
+            <ul id="genreMenu" class="nav nav-pills nav-stacked">
+                @Html.Action("_GenrePartial", "Home")
+            </ul>
+        </div>
+        <div id="albumList" class="col-lg-10">
+
+        </div>
+    </div>
+    <div id="menu1" class="tab-pane fade">
+        <div id="albumFiveList" class="col-lg-12">
+
+        </div>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+        <div id="discount" class="col-lg-12">
+
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts{
+    <script>
+        function callAJAX(url, element)
+        {
+            $.ajax({
+                type:'GET',
+                url: url,
+                async: false,
+                success: function(response){
+                    var albums = JSON.stringify({ 'albums': response });
+                    $.ajax({
+                        type:'POST',
+                        url: '/Home/GetAlbums',
+                        contentType:"application/json; charset=utf-8",
+                        data: albums,
+                        success: function(resp){
+                            element.html(resp);
+                        }
+                    });
+                }
+            });
+        }
+
+
+        $(document).ready(function(){
+            callAJAX('http://localhost:53424/api/Album/GetAlbums',$("#albumList"));
+            callAJAX('http://localhost:53424/api/Album/GetLastFiveAlbums',$("#albumFiveList"));
+            callAJAX('http://localhost:53424/api/Album/GetDiscountAlbums',$("#discount"));
+        });
+
+        function GenreByAlbumList(id){
+          callAJAX('http://localhost:53424/api/Album/GetAlbums/'+ id, $("#albumList"));
+        }
+
+
+          function AddToMyCart(id){
+          $.ajax({
+                type:'GET',
+                url: 'http://localhost:53424/api/Album/Get/'+ id,
+                success: function(response){
+                    var album = JSON.stringify({ 'album': response });
+                    $.ajax({
+                        type:'POST',
+                        url: '/Cart/AddToCart',
+                        contentType:"application/json; charset=utf-8",
+                        data: album,
+                        success: function(resp){
+                             $("#Navmenu li:nth-child(2)").html(resp);
+                        }
+                    });
+                }
+            });
+        }
+
+    </script>
+}

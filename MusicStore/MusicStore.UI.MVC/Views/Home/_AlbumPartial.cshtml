@@ -1,0 +1,38 @@
+﻿@model List<AlbumListViewModel>
+
+@if (ViewBag.Error != null)
+{
+    <span class="alert-danger">@ViewBag.Error</span>
+}
+else
+{
+    foreach (AlbumListViewModel item in Model)
+    {
+
+        <div class="col-lg-4">
+            <div class="panel panel-default">
+                <div class="panel panel-heading">
+                    <span title="@item.Title">@item.Title.Substring(0, item.Title.Length >= 10 ? 10 : item.Title.Length)</span>
+                </div>
+                <div class="panel panel-body">
+                    <div style="width:100%;height:75%;">
+                        <img src="@item.AlbumArtUrl" style="width:100%; height:100%" alt="@item.Title" />
+                    </div>
+                    <div style="height:25%;">
+                        <div class="col-lg-4">
+                            @item.Price ₺
+                        </div>
+                        <div class="col-lg-2">
+
+                        </div>
+                        <div class="col-lg-6">
+                            <input type="button" name="name" class="btn btn-warning" onclick="AddToMyCart(@item.AlbumID)" value="Add Cart" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+      

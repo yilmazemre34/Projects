@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "OrderCheck";
+}
+
+<h2>Siparişiniz Alınmıştır Birazdan Ana Sayfaya Yönlendirileceksiniz....</h2>
+<img src="~/Content/Images/loadinggif.gif" alt="Alternate Text" />
+
+@section scripts{
+    <script>
+    $(document).ready(function () {
+        setTimeout(function () {
+            window.location.href = '@Url.Action("Index","Home")'
+        },3000)
+    })
+    </script>
+}
+

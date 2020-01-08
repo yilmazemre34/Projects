@@ -1,0 +1,11 @@
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\MusicStore.MODEL.dll
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\MusicStore.MODEL.pdb
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\MusicStore.CORE.dll
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\EntityFramework.dll
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\MusicStore.CORE.pdb
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\MusicStore.CORE.dll.config
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\bin\Debug\EntityFramework.xml
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\obj\Debug\MusicStore.MODEL.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\obj\Debug\MusicStore.MODEL.csproj.CopyComplete
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\obj\Debug\MusicStore.MODEL.dll
+C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.MODEL\obj\Debug\MusicStore.MODEL.pdb

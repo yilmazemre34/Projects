@@ -1,0 +1,41 @@
+﻿
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Amount</th>
+            <th>SubTotal</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CartItemViewModel item in (Session["cart"] as MyCart).GetAllCartItem)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td><input type="number" id="txtAmount" value="@item.Amount" min="0" onchange="CartUpdate(this.value, @item.ID)" /></td>
+                <td>@item.SubTotal</td>
+                <td><a href="Javascript:void(0)" onclick="DeleteItemCart(@item.ID)">DELETE</a></td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4">
+                TOPLAM SEPET TUTARI
+            </td>
+            <td>
+                @((Session["cart"] as MyCart).GetAllCartItem.Sum(a => a.SubTotal).ToString("C2"))
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5">
+                @Html.ActionLink("SEPETİ ONAYLA", "OrderCheck", "Order")
+
+            </td>
+        </tr>
+    </tfoot>
+</table>
