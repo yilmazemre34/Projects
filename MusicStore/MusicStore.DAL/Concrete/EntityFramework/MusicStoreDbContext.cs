@@ -13,7 +13,7 @@ namespace MusicStore.DAL.Concrete.EntityFramework
 {
     public class MusicStoreDbContext:DbContext
     {
-        public MusicStoreDbContext():base("server=.\\SQLEXPRESS; database=MusicStoreDB; uid=sa; pwd=123")
+        public MusicStoreDbContext():base("server=.; database=MusicStoreDB; uid=sa; pwd=123")
         {
             Database.SetInitializer<MusicStoreDbContext>(new MyStrategy());
           
