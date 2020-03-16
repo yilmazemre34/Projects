@@ -34,3 +34,21 @@ C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.BLL\obj\Debug\MusicSt
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csproj.CopyComplete
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.dll
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.CORE.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.MODEL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\Ninject.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.CORE.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.CORE.dll.config
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll.config
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.MODEL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\Ninject.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.pdb

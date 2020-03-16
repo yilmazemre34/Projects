@@ -1,0 +1,67 @@
+﻿@model MbisSystem.Model.Model.Isler
+
+@{
+    ViewBag.Title = "Details";
+
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Isler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Baslik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Baslik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Olusturan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Olusturan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Durum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Durum)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Atanan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atanan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Atanan2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atanan2)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IsID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

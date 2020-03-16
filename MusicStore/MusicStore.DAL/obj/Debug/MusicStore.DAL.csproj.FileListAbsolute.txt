@@ -30,3 +30,19 @@ C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.DAL\obj\Debug\MusicSt
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.csproj.CopyComplete
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.dll
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.DAL.dll.config
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.DAL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.DAL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.CORE.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.MODEL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.CORE.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.CORE.dll.config
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\MusicStore.MODEL.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.DAL\obj\Debug\MusicStore.DAL.pdb

@@ -93,3 +93,6 @@ C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.UI.MVC\bin\EntityFrame
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.csprojAssemblyReference.cache
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.dll
 C:\Users\PC\Downloads\MusicStore (1)\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.UI.MVC\obj\Debug\MusicStore.UI.MVC.pdb

@@ -9,3 +9,14 @@ C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.CORE\bin\Debug\EntityF
 C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.xml
 C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Gizem İşeri\Source\Repos\MusicStore\MusicStore.CORE\obj\Debug\MusicStore.CORE.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\MusicStore.CORE.dll.config
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\MusicStore.CORE.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\MusicStore.CORE.pdb
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\obj\Debug\MusicStore.CORE.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\obj\Debug\MusicStore.CORE.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\obj\Debug\MusicStore.CORE.dll
+C:\Users\PC\Documents\GitHub\Projects\MusicStore\MusicStore.CORE\obj\Debug\MusicStore.CORE.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\MBisASystem.BLL.dll
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\MBisASystem.BLL.pdb
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\MbisSystem.Model.dll
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\MbisSystem.Model.pdb
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\MbisSystem.Model.dll.config
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\obj\Debug\MBisSystem.BLL.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\obj\Debug\MBisSystem.BLL.csproj.CopyComplete
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\obj\Debug\MBisASystem.BLL.dll
+C:\Users\PC\source\repos\deneme\MBisASystem.BLL\obj\Debug\MBisASystem.BLL.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\MbisSystem.Model.dll.config
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\MbisSystem.Model.dll
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\MbisSystem.Model.pdb
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\obj\Debug\MbisSystem.Model.csproj.CopyComplete
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\obj\Debug\MbisSystem.Model.dll
+C:\Users\PC\source\repos\deneme\MbisSystem.Model\obj\Debug\MbisSystem.Model.pdb
